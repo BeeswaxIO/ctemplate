@@ -1,0 +1,2 @@
+# htmlparser_test and template_regtest require TEMPLATE_ROOTDIR to be set.
+test --test_env TEMPLATE_ROOTDIR=./upstream

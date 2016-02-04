@@ -1,0 +1,6 @@
+# Ignore bazel
+bazel-bin
+bazel-ctemplate
+bazel-genfiles
+bazel-out
+bazel-testlogs
